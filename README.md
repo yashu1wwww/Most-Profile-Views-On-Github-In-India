@@ -14,20 +14,22 @@
 </p>
 </div>
 
-<𝙒𝙤𝙧𝙡𝙙𝙬𝙞𝙙𝙚🌍>
+<𝙄𝙣𝙙𝙞𝙖>
 
+< ayushi7rawat >
 
-< torvalds >
+<img src="https://avatars.githubusercontent.com/u/48730304?v=4" alt="side Image" align="center" width="210" height="auto" />
 
-<img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="114" height="auto" />
+![VisitorCount](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
 
-![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
+< ampawan >
 
-< yyx990803 >
+<img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="150" height="auto" />
 
-<img src="https://avatars.githubusercontent.com/u/499550?v=4" alt="side Image" align="center" width="114" height="auto" />
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=iampawan&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
 
 < gaearon >
 

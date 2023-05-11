@@ -38,7 +38,7 @@
 
 < SauravMukherjee44 >
 
-<img src="https://avatars.githubusercontent.com/u/72380920?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/72380920?v=4" alt="side Image" align="center" width="139" height="auto" />
 
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
@@ -46,13 +46,13 @@
 
 < Aakashdeveloper >
 
-<img src="https://avatars.githubusercontent.com/u/7868704?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/7868704?v=4" alt="side Image" align="center" width="200" height="auto" />
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 < AbhishekChauhan9036 >
 
-<img src="https://avatars.githubusercontent.com/u/96897831?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/96897831?v=4" alt="side Image" align="center" width="140" height="auto" />
 
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=AbhishekChauhan9036&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
@@ -60,7 +60,7 @@
 
 < ashishpatel26 >
 
-<img src="https://pbs.twimg.com/profile_images/1590685195724021760/CePCcZE2_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://pbs.twimg.com/profile_images/1590685195724021760/CePCcZE2_400x400.jpg" alt="side Image" align="center" width="140" height="auto" />
 
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=ashishpatel26&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
@@ -68,7 +68,7 @@
 
 < OnlineHacKing  >
 
-<img src="https://avatars.githubusercontent.com/u/45653647?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/45653647?v=4" alt="side Image" align="center" width="140" height="auto" />
 
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=OnlineHacKing&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
@@ -84,10 +84,11 @@
 
 < tanyarajhans >
 
-<img src="https://avatars.githubusercontent.com/u/61904667?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/61904667?v=4" alt="side Image" align="center" width="118" height="auto" />
 
 <div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=tanyarajhans&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
+  <img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=red">
 </div>
+
 
 < If there is any incorrect information, please fork it >

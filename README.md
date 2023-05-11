@@ -48,9 +48,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/7868704?v=4" alt="side Image" align="center" width="114" height="auto" />
 
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=Aakashdeveloper&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 < AbhishekChauhan9036 >
 
@@ -91,3 +89,5 @@
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=tanyarajhans&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
 </div>
+
+< If there is any incorrect information, please fork it >

@@ -40,6 +40,17 @@
 
 <br>
 
+< aagarwal1012 >
+
+<img src="https://avatars.githubusercontent.com/u/34043023?v=4" alt="side Image" align="center" width="139" height="auto" />
+
+<div class="text-center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012" alt="PROFILE VIEWS">
+</div>
+
+
+<br>
+
 < SauravMukherjee44 >
 
 <img src="https://avatars.githubusercontent.com/u/72380920?v=4" alt="side Image" align="center" width="139" height="auto" />
@@ -95,20 +106,6 @@
 </div>
 
 <br>
-
-< imranhsayed >
-
-<img src="https://avatars.githubusercontent.com/u/11497423?v=4" alt="side Image" align="center" width="142" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=imranhsayed&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
-
-
-
-
 
 
 < If there is any incorrect information, please fork it >

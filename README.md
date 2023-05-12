@@ -30,6 +30,8 @@
   <img src="https://komarev.com/ghpvc/?username=iampawan&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
 </div>
 
+<br>
+
 < prathimacode-hub >
 
 <img src="https://avatars.githubusercontent.com/u/74645302?v=4" alt="side Image" align="center" width="222" height="auto" />
@@ -64,6 +66,16 @@
 
 <br>
 
+< bhattbhavesh91 >
+
+<img src="https://avatars.githubusercontent.com/u/20332240?v=4" alt="side Image" align="center" width="140" height="auto" />
+
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=bhattbhavesh91&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
+</div>
+
+<br>
+
 < ashishpatel26 >
 
 <img src="https://pbs.twimg.com/profile_images/1590685195724021760/CePCcZE2_400x400.jpg" alt="side Image" align="center" width="140" height="auto" />
@@ -92,15 +104,7 @@
   <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1" width="1" height="1" /></a>  
 </p>
 
-<br>
 
-< tanyarajhans >
-
-<img src="https://avatars.githubusercontent.com/u/61904667?v=4" alt="side Image" align="center" width="120" height="auto" />
-
-<div style="text-align: center;">
-  <img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=red">
-</div>
 
 
 < If there is any incorrect information, please fork it >

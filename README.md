@@ -68,7 +68,7 @@
 
 < bhattbhavesh91 >
 
-<img src="https://avatars.githubusercontent.com/u/20332240?v=4" alt="side Image" align="center" width="140" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/20332240?v=4" alt="side Image" align="center" width="145" height="auto" />
 
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=bhattbhavesh91&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
@@ -76,33 +76,37 @@
 
 <br>
 
-< ashishpatel26 >
+< chandrikadeb7 >
 
-<img src="https://pbs.twimg.com/profile_images/1590685195724021760/CePCcZE2_400x400.jpg" alt="side Image" align="center" width="140" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/29686102?v=4" alt="side Image" align="center" width="150" height="auto" />
 
 <div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=ashishpatel26&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
+  <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
 </div>
 
 <br>
 
-< OnlineHacKing  >
+< rahuldkjain >
 
-<img src="https://avatars.githubusercontent.com/u/45653647?v=4" alt="side Image" align="center" width="140" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/26406279?v=4" alt="side Image" align="center" width="140" height="auto" />
 
 <div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=OnlineHacKing&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
+  <img src="https://komarev.com/ghpvc/?username=rahuldkjain&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
 </div>
 
 <br>
 
-< SamirPaul1 >
+< imranhsayed >
 
-<img src="https://avatars.githubusercontent.com/u/77569653?v=4" alt="side Image" align="center" width="135" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/11497423?v=4" alt="side Image" align="center" width="142" height="auto" />
 
-  <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://hits.sh/github.com/SamirPaul1.svg?label=PROFILEVIEWS&extraCount=20000&color=red&labelColor=black" alt="Visitors"></a> 
-  <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1" width="1" height="1" /></a>  
-</p>
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=imranhsayed&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
+</div>
+
+<br>
+
+
 
 
 

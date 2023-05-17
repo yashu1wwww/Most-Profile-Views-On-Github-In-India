@@ -32,6 +32,15 @@
 
 <br>
 
+< Sumanth-Talluri >
+
+<img src="https://avatars.githubusercontent.com/u/30266724?v=4" alt="side Image" align="center" width="150" height="auto" />
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+</p>
+
+<br>
+
 < prathimacode-hub >
 
 <img src="https://avatars.githubusercontent.com/u/74645302?v=4" alt="side Image" align="center" width="222" height="auto" />
@@ -97,25 +106,7 @@
 
 <br>
 
-< V4NSH4J >
 
-<img src="https://avatars.githubusercontent.com/u/79518089?v=4" alt="side Image" align="center" width="140" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=V4NSH4J&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
-
-< rahuldkjain >
-
-<img src="https://avatars.githubusercontent.com/u/26406279?v=4" alt="side Image" align="center" width="140" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=rahuldkjain&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
 
 𝙉𝙤𝙩𝙚⚠: 𝙏𝙝𝙤𝙨𝙚 𝙬𝙝𝙤 𝙙𝙤𝙣'𝙩 𝙝𝙖𝙫𝙚 𝙖𝙣 𝙑𝙞𝙚𝙬𝙨 𝘾𝙤𝙪𝙣𝙩𝙚𝙧 𝙊𝙧 𝙎𝙑𝙂 𝙘𝙤𝙪𝙣𝙩𝙚𝙧 𝙞𝙣 𝙩𝙝𝙚𝙞𝙧 𝙂𝙞𝙩𝙃𝙪𝙗 𝙤𝙫𝙚𝙧𝙫𝙞𝙚𝙬, 𝙬𝙝𝙞𝙘𝙝 𝙖𝙘𝙘𝙤𝙪𝙣𝙩𝙨 𝙛𝙤𝙧 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 𝙫𝙞𝙚𝙬𝙨, 𝙙𝙤 𝙣𝙤𝙩 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙤𝙥𝙩𝙞𝙤𝙣 𝙩𝙤 𝙛𝙚𝙩𝙘𝙝 𝙞𝙩.
 

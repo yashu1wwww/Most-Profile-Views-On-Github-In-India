@@ -32,14 +32,7 @@
 
 <br>
 
-< Sumanth-Talluri >
 
-<img src="https://avatars.githubusercontent.com/u/30266724?v=4" alt="side Image" align="center" width="150" height="auto" />
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
-
-<br>
 
 < prathimacode-hub >
 

@@ -16,13 +16,13 @@
 
 <𝙄𝙣𝙙𝙞𝙖>
 
-< ayushi7rawat >
+< [ayushi7rawat](https://github.com/ayushi7rawat) >
 
 <img src="https://avatars.githubusercontent.com/u/48730304?v=4" alt="side Image" align="center" width="222" height="auto" />
 
 ![VisitorCount](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
 
-< ampawan >
+< [iampawan](https://github.com/iampawan) >
 
 <img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="150" height="auto" />
 
@@ -34,7 +34,7 @@
 
 
 
-< prathimacode-hub >
+< [prathimacode-hub](https://github.com/prathimacode-hub) >
 
 <img src="https://avatars.githubusercontent.com/u/74645302?v=4" alt="side Image" align="center" width="222" height="auto" />
 
@@ -42,7 +42,7 @@
 
 <br>
 
-< aagarwal1012 >
+< [aagarwal1012](https://github.com/aagarwal1012) >
 
 <img src="https://avatars.githubusercontent.com/u/34043023?v=4" alt="side Image" align="center" width="139" height="auto" />
 
@@ -53,7 +53,7 @@
 
 <br>
 
-< SauravMukherjee44 >
+< [SauravMukherjee44](https://github.com/SauravMukherjee44) >
 
 <img src="https://avatars.githubusercontent.com/u/72380920?v=4" alt="side Image" align="center" width="139" height="auto" />
 
@@ -63,13 +63,13 @@
 
 <br>
 
-< Aakashdeveloper >
+< [Aakashdeveloper](https://github.com/Aakashdeveloper) >
 
 <img src="https://avatars.githubusercontent.com/u/7868704?v=4" alt="side Image" align="center" width="200" height="auto" />
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
-< AbhishekChauhan9036 >
+< [AbhishekChauhan9036](https://github.com/AbhishekChauhan9036) >
 
 <img src="https://avatars.githubusercontent.com/u/96897831?v=4" alt="side Image" align="center" width="140" height="auto" />
 
@@ -79,7 +79,7 @@
 
 <br>
 
-< bhattbhavesh91 >
+< [bhattbhavesh91](https://github.com/bhattbhavesh91) >
 
 <img src="https://avatars.githubusercontent.com/u/20332240?v=4" alt="side Image" align="center" width="145" height="auto" />
 
@@ -89,7 +89,7 @@
 
 <br>
 
-< chandrikadeb7 >
+< [chandrikadeb7](https://github.com/chandrikadeb7) >
 
 <img src="https://avatars.githubusercontent.com/u/29686102?v=4" alt="side Image" align="center" width="150" height="auto" />
 

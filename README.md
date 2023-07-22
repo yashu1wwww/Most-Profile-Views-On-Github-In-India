@@ -50,6 +50,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012" alt="PROFILE VIEWS">
 </div>
 
+<br>
+
+< [yashu1wwww](https://github.com/yashu1wwww) >
+
+<img src="https://avatars.githubusercontent.com/u/89150253?v=4" alt="side Image" align="center" width="158" height="auto" />
+
+<div class="text-center">
+  <img src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c" alt="PROFILE VIEWS">
+</div>
+
 
 <br>
 
@@ -71,7 +81,7 @@
 
 < [AbhishekChauhan9036](https://github.com/AbhishekChauhan9036) >
 
-<img src="https://avatars.githubusercontent.com/u/96897831?v=4" alt="side Image" align="center" width="140" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/96897831?v=4" alt="side Image" align="center" width="147" height="auto" />
 
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=AbhishekChauhan9036&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>

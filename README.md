@@ -52,65 +52,6 @@
 
 <br>
 
-< [yashu1wwww](https://github.com/yashu1wwww) >
-
-<img src="https://avatars.githubusercontent.com/u/89150253?v=4" alt="side Image" align="center" width="158" height="auto" />
-
-<div class="text-center">
-  <img src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c" alt="PROFILE VIEWS">
-</div>
-
-
-<br>
-
-< [SauravMukherjee44](https://github.com/SauravMukherjee44) >
-
-<img src="https://avatars.githubusercontent.com/u/72380920?v=4" alt="side Image" align="center" width="139" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
-
-< [Aakashdeveloper](https://github.com/Aakashdeveloper) >
-
-<img src="https://avatars.githubusercontent.com/u/7868704?v=4" alt="side Image" align="center" width="200" height="auto" />
-
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-
-< [AbhishekChauhan9036](https://github.com/AbhishekChauhan9036) >
-
-<img src="https://avatars.githubusercontent.com/u/96897831?v=4" alt="side Image" align="center" width="147" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=AbhishekChauhan9036&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
-
-< [bhattbhavesh91](https://github.com/bhattbhavesh91) >
-
-<img src="https://avatars.githubusercontent.com/u/20332240?v=4" alt="side Image" align="center" width="145" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=bhattbhavesh91&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
-
-< [chandrikadeb7](https://github.com/chandrikadeb7) >
-
-<img src="https://avatars.githubusercontent.com/u/29686102?v=4" alt="side Image" align="center" width="150" height="auto" />
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=PROFILE%20VIEWS&color=red&style=flat" alt="iampawan"/>
-</div>
-
-<br>
-
-
-
 𝙉𝙤𝙩𝙚⚠: 𝙏𝙝𝙤𝙨𝙚 𝙬𝙝𝙤 𝙙𝙤𝙣'𝙩 𝙝𝙖𝙫𝙚 𝙖𝙣 𝙑𝙞𝙚𝙬𝙨 𝘾𝙤𝙪𝙣𝙩𝙚𝙧 𝙊𝙧 𝙎𝙑𝙂 𝙘𝙤𝙪𝙣𝙩𝙚𝙧 𝙞𝙣 𝙩𝙝𝙚𝙞𝙧 𝙂𝙞𝙩𝙃𝙪𝙗 𝙤𝙫𝙚𝙧𝙫𝙞𝙚𝙬, 𝙬𝙝𝙞𝙘𝙝 𝙖𝙘𝙘𝙤𝙪𝙣𝙩𝙨 𝙛𝙤𝙧 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 𝙫𝙞𝙚𝙬𝙨, 𝙙𝙤 𝙣𝙤𝙩 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙤𝙥𝙩𝙞𝙤𝙣 𝙩𝙤 𝙛𝙚𝙩𝙘𝙝 𝙞𝙩.
 
  < If there is any incorrect information, please fork it >
